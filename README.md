@@ -23,6 +23,7 @@ Reconocer caracteristicas principales y fundamentales de corriente, voltaje alte
 Repasar los métodos aprendidos para la resolución de circuitos
 
  Construir y sintetizar la información por medio de mapas conceptuales y esquemas de los circuitos.
+ 
  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
  MARCO TEÓRICO (RESUMEN)
@@ -345,6 +346,21 @@ Tiene que ser 0 ohms para proporcionar un corto circuito de tierra
 
 ![image](https://user-images.githubusercontent.com/116777044/210864833-08566039-f210-44ec-b239-e87cf0a4db89.png)
 
+------------------------------------------------------------------------------------------------------------------
+
+VIDEO
 
 
+---------------------------------------------------------------------------------------------------------------
 
+CONCLUSIONES
+
+Para este deber fue importante el uso de conocimientos previos del anterior parcial tanto como los nuevos adquiridos. El uso de los nuevos teoremas aprendidos y los anteriores son claramente útiles al momento de resolver circuitos ya con más complejidad.
+
+ Podemos decir que un voltaje alterno es aque que cambia de polaridad con cierta rapidez, por otra parte al hablar de ondas sinusoidales o ondas senos son aquellas que se repiten en intervlos fíjos la implementación de estos conceptos han dado enfasis en el análisis de circuitos de corriente alterna
+ 
+ --------------------------------------------------------------------------------------------------------------------
+
+BIBLIOGRAFÍA
+
+Floyd, Thomas.L. (sf). Floyd Octava Edición principios de circuitos eléctricos (8va edición, Vol. 1). Prentice Hall. https://latecnicalf.com.ar/descargas/material/electronicaanalogica/Dispositivos%20El electronicos%208va.edicion-%20Floyd.pdf
