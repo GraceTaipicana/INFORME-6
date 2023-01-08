@@ -28,8 +28,20 @@ Repasar los métodos aprendidos para la resolución de circuitos
  
  MARCO TEÓRICO (RESUMEN)
  
- 
- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ![image](https://user-images.githubusercontent.com/116777044/211177117-b3f37d9e-fae0-4d28-a8e3-8b5f6fe24c4c.png)
+
+![image](https://user-images.githubusercontent.com/116777044/211177123-42bb2934-1507-476d-afd5-c1934011930e.png)
+
+![image](https://user-images.githubusercontent.com/116777044/211177126-71612fd0-2203-46a6-8960-262fcb2d5cd8.png)
+
+![image](https://user-images.githubusercontent.com/116777044/211177129-7df11c25-0013-493e-a6f3-c1f2bbc1ea00.png)
+
+![image](https://user-images.githubusercontent.com/116777044/211177133-d9dc6e0c-e3a2-4a5f-b224-c8d5cf6e1f9a.png)
+
+![image](https://user-images.githubusercontent.com/116777044/211177135-b70485e8-7a89-4c86-af04-017365c87737.png)
+
+
+-------------------------------------------------- -------------------------------------------------- -------------------------------------------------- ---------------------
  EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 EJERCICIOS CAPITULO 11
@@ -350,6 +362,7 @@ Tiene que ser 0 ohms para proporcionar un corto circuito de tierra
 
 VIDEO
 
+https://share.vidyard.com/watch/LifdFdwoetux646hajgEfm?
 
 ---------------------------------------------------------------------------------------------------------------
 
